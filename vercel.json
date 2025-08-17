@@ -1,0 +1,13 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/" },
+    { "source": "/web-development", "destination": "/" },
+    { "source": "/app-development", "destination": "/" },
+    { "source": "/social-media-management", "destination": "/" },
+    { "source": "/graphic-designing", "destination": "/" },
+    { "source": "/digital-media-marketing", "destination": "/" },
+    { "source": "/paid-ad-campaigns", "destination": "/" },
+    { "source": "/consulting", "destination": "/" },
+    { "source": "/(.*)", "destination": "/" }
+  ]
+}
